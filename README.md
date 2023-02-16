@@ -2,7 +2,7 @@
 <h3 align="center">a student from a university in Indonesia</h3>
 <h4 align="center">As you can see there is a repository that I pinned, it is an information system that I'm currently developing using the Laravel framework.</h4>
 <hr>
-<img align="right" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" alt="coding" width="200">
+<img align="right" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" alt="coding" width="150">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalpi&label=Profile%20views&color=0e75b6&style=flat" alt="naufalpi" /> </p>
 
