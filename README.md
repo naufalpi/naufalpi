@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naufal Akbar</h1>
+<h1 align="center">Hi 👋, I'm Naufal</h1>
 <h3 align="center">a student from a university in Indonesia</h3>
 <h4 align="center">As you can see there is a repository that I pinned, it is an information system that I'm currently developing using the Laravel framework.</h4>
 <hr>
