@@ -6,7 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalpi&label=Profile%20views&color=0e75b6&style=flat" alt="naufalpi" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Next.js and Reactjs**
+  
+- 📑 My portofolio website
+**https://naufalpi.vercel.app/**
 
 - 📫 How to reach me **nauakbar76@gmail.com**
 
